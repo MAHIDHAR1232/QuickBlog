@@ -1,10 +1,11 @@
-𓂃🖊 QUICKBLOG ✍️ ᯓ➤
-AI-Powered Blogging Platform with Intelligent Content Generation
+# Project Name
+A brief description of what this project does and who it's for.
 
-Last Commit Languages License Version
+## Table of Contents
+-[Installation](#installation)
+-[Usage](#usage)
+-[Contributing](#contributing)
+-[License](#license)
 
-Powered by cutting-edge AI and modern technologies:
-
-React Google Gemini Express MongoDB ImageKit Tailwind CSS
-
-LIVE - DEMO 🌐
+## Installation
+Instructions on how to install and set up the project.
